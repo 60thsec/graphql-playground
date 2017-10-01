@@ -7,6 +7,8 @@ GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive
 
 ## Features
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/graphcool/graphql-playground.svg)](https://greenkeeper.io/)
+
 * ✨ Context-aware autocompletion & error highlighting
 * 📚 Interactive, multi-column docs (keyboard support)
 * ⚡️ Supports real-time GraphQL Subscriptions
